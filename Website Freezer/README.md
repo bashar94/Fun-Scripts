@@ -1,6 +1,6 @@
 ## How to use this?
 
-Just link **javascript.js** and **style.css** to the website's page(s) that will be freezed.
+It is so simple! Just upload **javascript.js** and **style.css** to the server and add it to website's page(s) to freeze them!
 
 ## How to change the timer?
 
