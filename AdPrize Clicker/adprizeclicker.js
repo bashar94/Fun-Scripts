@@ -1,0 +1,1 @@
+$(document).load(setTimeout(function(){$('#nxt_bt_a').find('span').trigger('click')}, 10000));

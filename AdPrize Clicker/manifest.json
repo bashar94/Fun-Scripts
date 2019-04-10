@@ -1,0 +1,16 @@
+{
+    "name": "AD prize Clicker",
+    "version": "1.0",
+    "description": "Neobux AD prize cliker",
+    "manifest_version": 2,
+
+	 "content_scripts": [
+	 	{
+		 "matches": ["http://www.neobux.com/*"],
+		  "js": ["jquery-latest.min.js",
+		  	"adprizeclicker.js"
+		  ],
+		  "run_at": "document_end"
+		 }
+	]
+}
